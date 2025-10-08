@@ -1,0 +1,1 @@
+# Reset Navicate Mysql Trial

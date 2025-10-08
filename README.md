@@ -1,1 +1,1 @@
-# Reset Navicate Mysql Trial
+# Reset Navicate Mysql Trial For Ubuntu
